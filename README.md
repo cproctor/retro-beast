@@ -9,6 +9,7 @@ game framework. To play, clone this repository and install the dependencies:
     $ poetry shell
     $ python game.py
 
+```
 ╔════════════════════════════════════════╗
 ║████████████████████████████████████████║
 ║█   █ █  █ █  █      █          ██     █║
@@ -31,3 +32,4 @@ game framework. To play, clone this repository and install the dependencies:
 ║██ H ██ █    █ ██     ██  █ █     █    █║
 ║████████████████████████████████████████║
 ╚════════════════════════════════════════╝
+```
