@@ -10,7 +10,7 @@ class Beast:
     character = "H"
     color = "red"
     deadly = True
-    speed = 20
+    speed = 15
 
     def __init__(self, position):
         self.position = position
